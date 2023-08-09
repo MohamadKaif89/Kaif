@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+     /* line-height: 2.4; */
+    /* font-weight: 300; */
+}
+.header{
+    background-image: url(./img/background-1img.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* margin: 5px; */
+}
+h1{
+    color: black;
+    text-align: center;
+      font-size:70px;
+      padding-top:20px;
+}
+.para1{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+    position: relative;
+    /* border: 2px solid green; */
+   
+
+  
+
+}
